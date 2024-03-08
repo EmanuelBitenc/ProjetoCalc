@@ -1,4 +1,3 @@
-//import logo from "../../../assets/calcIcon.svg";
 import "./painelHome.css";
 import "./animation.css";
 import { useEffect, useState } from "react";

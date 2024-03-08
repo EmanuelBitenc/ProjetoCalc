@@ -1,0 +1,19 @@
+.containerPainel {
+  justify-content: center;
+  margin: 8rem 0;
+}
+
+.titulo {
+  justify-content: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.titulo .icon {
+  z-index: -1;
+  width: 300px;
+  rotate: 45deg;
+  position: absolute;
+  align-self: center;
+}

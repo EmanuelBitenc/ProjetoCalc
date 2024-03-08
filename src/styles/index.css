@@ -7,7 +7,7 @@
   color: #e3e3e3;
   background-color: #242424;
 }
-body {
+* {
   margin: 0;
   padding: 0;
 }

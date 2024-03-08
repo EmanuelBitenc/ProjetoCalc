@@ -7,7 +7,9 @@ function App() {
     <>
       <div>
         <Header />
-        <PainelHome />
+        <div>
+          <PainelHome />
+        </div>
       </div>
     </>
   );

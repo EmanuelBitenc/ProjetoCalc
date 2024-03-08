@@ -8,7 +8,7 @@ const Header = () => {
         <div className="ImageContainer">
           <img src={logo} alt="" />
         </div>
-        <ul className="header-menu">
+        <ul>
           <li>
             <a
               href="https://www.linkedin.com/in/emanuelbitencourt/"
